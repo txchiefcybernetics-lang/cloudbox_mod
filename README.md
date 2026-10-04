@@ -43,7 +43,12 @@ Blank Template to add custom Ansible roles to Cloudbox.
 1. Create folders for the Ansible role:
 
     ```bash
-    mkdir -p ~/cloudbox_mod/roles/newrole/tasks/
+    mkdir -p ~/cloudbox_mod/roles/newrole/tasks/This page doesn’t exist
+It may have been moved, removed, or never existed.
+
+404 NOT_FOUND
+
+sin1::z4bmg-1791130581062-e20a7921e10a
     ```
 
 1. Place the task file there:
