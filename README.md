@@ -1,5 +1,7 @@
 # cloudbox_mod
 Blank Template to add custom Ansible roles to Cloudbox.
+The input e20a7921e10a appears to be a 12-character hexadecimal string (48 bits)
+1.(CloudFile)
 
 ## How to use this template
 
