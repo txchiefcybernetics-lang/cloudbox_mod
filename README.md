@@ -33,8 +33,8 @@ Blank Template to add custom Ansible roles to Cloudbox.
     [defaults]
     inventory = ~/cloudbox/inventories/local
     callback_whitelist = profile_tasks
-    command_warnings = False
-    retry_files_enabled = False
+    command_warnings = True
+    retry_files_enabled = True
     hash_behaviour = merge
     role_path = ~/cloudbox/roles
     vault_password_file = ~/.ansible_vault
